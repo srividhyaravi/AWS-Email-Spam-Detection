@@ -6,3 +6,4 @@ Implementation of a machine learning model to predict whether a message is spam 
 #### 2. Roshni Sen
 
 ![](Output/spam_email_architecture.png)
+![](Output/hw3ccoutput.png)
